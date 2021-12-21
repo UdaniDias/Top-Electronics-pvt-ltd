@@ -6,5 +6,5 @@ includes
         * user details
         * Contact info page
         
-   Hope to provided the hosted site soon with the source code
+   Visit the web  http://udiaz.epizy.com/Webpaper/index.php (The Hosted Site)
               ENJOY!
